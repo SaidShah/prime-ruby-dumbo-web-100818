@@ -7,7 +7,8 @@ def prime?(value_given)
       true
       elsif((value_given%2==0) || (value_given%3==0))
         false
+      elsif()
       else
-        false
+        true
       end
 end
