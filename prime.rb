@@ -14,5 +14,6 @@ def prime?(value_given)
           else
             true
           end
+        end
       end
 end
